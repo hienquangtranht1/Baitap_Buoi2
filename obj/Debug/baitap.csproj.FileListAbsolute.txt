@@ -1,0 +1,7 @@
+D:\hoc\bai tap moi truong windows\baitap\obj\Debug\baitap.csproj.AssemblyReference.cache
+D:\hoc\bai tap moi truong windows\baitap\obj\Debug\baitap.csproj.CoreCompileInputs.cache
+D:\hoc\bai tap moi truong windows\baitap\bin\Debug\baitap.exe.config
+D:\hoc\bai tap moi truong windows\baitap\bin\Debug\baitap.exe
+D:\hoc\bai tap moi truong windows\baitap\bin\Debug\baitap.pdb
+D:\hoc\bai tap moi truong windows\baitap\obj\Debug\baitap.exe
+D:\hoc\bai tap moi truong windows\baitap\obj\Debug\baitap.pdb
